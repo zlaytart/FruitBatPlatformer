@@ -4,14 +4,6 @@ using UnityEngine;
 
 public class Fruit : MonoBehaviour
 {
+    public string ID;
 
-    // Update is called once per frame
-    void Update()
-    {
-        //void OnCollisionEnter2D(Collision2D collision)
-        {
-            //if (collision.gameObject.tag == "Player")
-                //Destroy(gameObject);
-        }
-    }
 }
